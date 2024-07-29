@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\bin\Debug\net8.0\PatikaHolidayApp.exe
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\bin\Debug\net8.0\PatikaHolidayApp.deps.json
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\bin\Debug\net8.0\PatikaHolidayApp.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\bin\Debug\net8.0\PatikaHolidayApp.dll
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\bin\Debug\net8.0\PatikaHolidayApp.pdb
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\PatikaHolidayApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\PatikaHolidayApp.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\PatikaHolidayApp.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\PatikaHolidayApp.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\PatikaHolidayApp.dll
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\refint\PatikaHolidayApp.dll
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\PatikaHolidayApp.pdb
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\PatikaHolidayApp.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaHolidayApp\PatikaHolidayApp\obj\Debug\net8.0\ref\PatikaHolidayApp.dll
